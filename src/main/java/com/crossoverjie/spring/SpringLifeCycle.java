@@ -16,6 +16,7 @@ import org.springframework.context.ApplicationContextAware;
  */
 public class SpringLifeCycle{
 
+    // 做个提交代码的演示哦
     private final static Logger LOGGER = LoggerFactory.getLogger(SpringLifeCycle.class);
     public void start(){
         LOGGER.info("SpringLifeCycle start");
